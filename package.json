@@ -1,0 +1,24 @@
+{
+  "name": "d3rzmc--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@mui/x-date-pickers": "6.3.1",
+    "dayjs": "1.11.7",
+    "@emotion/react": "11.11.0",
+    "@emotion/styled": "11.11.0",
+    "@mui/material": "5.12.3",
+    "date-fns": "2.30.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
